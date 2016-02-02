@@ -1,6 +1,9 @@
 /HelloJSF2_2/dist/*
 /HelloJSF2_2/build/*
+/HelloJSF2_2/nbproject/*
 /HelloJSF2_2/HelloJSF2_2-ejb/dist/*
 /HelloJSF2_2/HelloJSF2_2-ejb/build/*
+/HelloJSF2_2/HelloJSF2_2-ejb/nbproject/*
 /HelloJSF2_2/HelloJSF2_2-war/dist/*
 /HelloJSF2_2/HelloJSF2_2-war/build/*
+/HelloJSF2_2/HelloJSF2_2-war/nbproject/*
